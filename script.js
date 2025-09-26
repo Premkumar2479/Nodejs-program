@@ -1,13 +1,3 @@
-// let n =5;
+const someValue = require("./maths");
 
-// for(let i=0; i<n; i++) {
-//     console.log("Hello,",i);
-// }
-// console.log("Done");
-
-let args = process.argv;
-
-for (let i =2;  i< args.length; i++){
-    console.log("hello to", args[i] );
-}
-
+console.log(someValue);
