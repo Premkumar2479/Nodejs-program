@@ -1,3 +1,3 @@
-const someValue = require("./maths");
+const maths = require("./maths");
 
-console.log(someValue);
+console.log(maths);
