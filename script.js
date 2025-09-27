@@ -1,3 +1,3 @@
-const maths = require("./maths");
+const info = require("./Fruits");
 
-console.log(maths);
+console.log(info);
