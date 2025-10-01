@@ -1,3 +1,3 @@
-const info = require("./Fruits");
+import {sum,PI} from "./maths.js";
 
-console.log(info);
+console.log(sum(5,6));

@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "This is first project.",
+  "description": "",
   "homepage": "https://github.com/Premkumar2479/Nodejs-program#readme",
   "bugs": {
     "url": "https://github.com/Premkumar2479/Nodejs-program/issues"
@@ -16,5 +16,10 @@
   "main": "maths.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "dependencies": {
+    "figlet": "^1.9.3"
+    
+  },
+  "devDependencies": {}
 }
